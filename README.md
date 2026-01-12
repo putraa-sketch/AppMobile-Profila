@@ -29,6 +29,21 @@
 
 ---
 
+## Mockup
+
+<img width="940" height="705" alt="image" src="https://github.com/user-attachments/assets/28d76adc-53c8-435c-9059-531040c26053" />
+
+---
 ## UI
 
-<img width="1619" height="857" alt="UI" src="https://github.com/user-attachments/assets/578cbd1c-5c52-4401-a3f1-96a22f165b02" />
+<img width="5727" height="3240" alt="Projek 1 (1)" src="https://github.com/user-attachments/assets/961feb35-9b2d-4590-8244-b139c4ae40d5" />
+
+---
+
+## UX
+
+---
+
+## Demo Apps (Link Youtube): 
+
+---

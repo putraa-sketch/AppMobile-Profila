@@ -40,10 +40,7 @@
 
 ---
 
-## UX
-
----
-
-## Demo Apps (Link Youtube): 
+## UX (User Experience)
+Demo Apps (Link Youtube): 
 
 ---

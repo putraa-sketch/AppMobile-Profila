@@ -1,5 +1,12 @@
 # AppMobile-Profila
 
+## Informasi Mahasiswa
+- **Nama**: Abdi Putra Perdana
+- **NIM**: 312410426
+- **Kelas**: TI 24 A3
+- **Mata Kuliah**: Pemrograman Mobile 1
+
+
 ---
 
 ## Timeline
